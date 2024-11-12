@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sunjekt\\source\\repos\\ZifraProject\\Tests\\Tests.csproj": {}
+    "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sunjekt\\source\\repos\\ZifraProject\\Tests\\Tests.csproj": {
+    "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sunjekt\\source\\repos\\ZifraProject\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\Sunjekt\\source\\repos\\ZifraProject\\Tests\\Tests.csproj",
+        "projectPath": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\Sunjekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sunjekt\\source\\repos\\ZifraProject\\Tests\\obj\\",
+        "outputPath": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sunjekt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Sunjekt\\source\\repos\\ZifraProject\\ZifraProject\\ZifraProject.csproj": {
-                "projectPath": "C:\\Users\\Sunjekt\\source\\repos\\ZifraProject\\ZifraProject\\ZifraProject.csproj"
+              "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\ZyfraServer.csproj": {
+                "projectPath": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\ZyfraServer.csproj"
               }
             }
           }
@@ -91,21 +91,21 @@
         }
       }
     },
-    "C:\\Users\\Sunjekt\\source\\repos\\ZifraProject\\ZifraProject\\ZifraProject.csproj": {
+    "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\ZyfraServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sunjekt\\source\\repos\\ZifraProject\\ZifraProject\\ZifraProject.csproj",
-        "projectName": "ZifraProject",
-        "projectPath": "C:\\Users\\Sunjekt\\source\\repos\\ZifraProject\\ZifraProject\\ZifraProject.csproj",
+        "projectUniqueName": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\ZyfraServer.csproj",
+        "projectName": "ZyfraServer",
+        "projectPath": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\ZyfraServer.csproj",
         "packagesPath": "C:\\Users\\Sunjekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sunjekt\\source\\repos\\ZifraProject\\ZifraProject\\obj\\",
+        "outputPath": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sunjekt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -113,8 +113,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -130,8 +130,14 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -144,11 +150,14 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

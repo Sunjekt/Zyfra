@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZifraProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df8e0168b45b89582689d16b123377f5ac8f9f1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZifraProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZifraProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
