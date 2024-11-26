@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ZifraProject\ZifraProject.csproj" />
+    <ProjectReference Include="..\ZyfraServer\ZyfraServer.csproj" />
   </ItemGroup>
 
   <ItemGroup>

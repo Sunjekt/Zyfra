@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sunjekt\\source\\repos\\ZifraProject\\ZifraProject\\ZifraProject.csproj": {}
+    "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZifraProject\\ZifraProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sunjekt\\source\\repos\\ZifraProject\\ZifraProject\\ZifraProject.csproj": {
+    "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZifraProject\\ZifraProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sunjekt\\source\\repos\\ZifraProject\\ZifraProject\\ZifraProject.csproj",
+        "projectUniqueName": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZifraProject\\ZifraProject.csproj",
         "projectName": "ZifraProject",
-        "projectPath": "C:\\Users\\Sunjekt\\source\\repos\\ZifraProject\\ZifraProject\\ZifraProject.csproj",
+        "projectPath": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZifraProject\\ZifraProject.csproj",
         "packagesPath": "C:\\Users\\Sunjekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sunjekt\\source\\repos\\ZifraProject\\ZifraProject\\obj\\",
+        "outputPath": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZifraProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sunjekt\\AppData\\Roaming\\NuGet\\NuGet.Config",
