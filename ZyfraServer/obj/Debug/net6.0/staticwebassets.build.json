@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "c0QIPpFDOQk/vbWEiA5j6vt6sbcE28S3KoqkekS+z2U=",
+  "Hash": "VKNzXLg+qkJgBhfz0b63dTd0xsT9R2xAYxcFePPHc+g=",
   "Source": "ZyfraServer",
   "BasePath": "_content/ZyfraServer",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

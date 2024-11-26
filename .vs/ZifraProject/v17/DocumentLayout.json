@@ -3,32 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D04DF952-8FE7-442A-AA68-DDBE86616368}|Tests\\Tests.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D04DF952-8FE7-442A-AA68-DDBE86616368}|Tests\\Tests.csproj|solutionrelative:tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\zyfraserver\\services\\zyfradataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|solutionrelative:zyfraserver\\services\\zyfradataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\zyfraserver\\controllers\\zyfradatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|solutionrelative:zyfraserver\\controllers\\zyfradatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04DF952-8FE7-442A-AA68-DDBE86616368}|Tests\\Tests.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\tests\\zyfradatacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04DF952-8FE7-442A-AA68-DDBE86616368}|Tests\\Tests.csproj|solutionrelative:tests\\zyfradatacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\zyfraserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|solutionrelative:zyfraserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\zyfraserver\\data\\modelsmanagerseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|solutionrelative:zyfraserver\\data\\modelsmanagerseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Migrations\\20241126132645_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZyfraServer\\Migrations\\20241126132645_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\zyfraserver\\models\\modesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|solutionrelative:zyfraserver\\models\\modesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04DF952-8FE7-442A-AA68-DDBE86616368}|Tests\\Tests.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\tests\\zyfradataservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04DF952-8FE7-442A-AA68-DDBE86616368}|Tests\\Tests.csproj|solutionrelative:tests\\zyfradataservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04DF952-8FE7-442A-AA68-DDBE86616368}|Tests\\Tests.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D04DF952-8FE7-442A-AA68-DDBE86616368}|Tests\\Tests.csproj|solutionrelative:tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\zyfraserver\\zyfraserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|solutionrelative:zyfraserver\\zyfraserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04DF952-8FE7-442A-AA68-DDBE86616368}|Tests\\Tests.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04DF952-8FE7-442A-AA68-DDBE86616368}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\zyfraserver\\interfaces\\services\\izyfradataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|solutionrelative:zyfraserver\\interfaces\\services\\izyfradataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\zyfraserver\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|solutionrelative:zyfraserver\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\zyfraserver\\repositories\\zyfradatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|solutionrelative:zyfraserver\\repositories\\zyfradatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\zyfraserver\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|solutionrelative:zyfraserver\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\zyfraserver\\interfaces\\repositories\\izyfradatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|solutionrelative:zyfraserver\\interfaces\\repositories\\izyfradatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\zyfraserver\\interfaces\\ifilesrevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|solutionrelative:zyfraserver\\interfaces\\ifilesrevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\zyfraserver\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|solutionrelative:zyfraserver\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\zyfraserver\\models\\zyfradata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|solutionrelative:zyfraserver\\models\\zyfradata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|c:\\users\\sunjekt\\source\\repos\\zyfra\\zyfraserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FBEAB10-4F59-4C97-9277-704A1A1E4838}|ZyfraServer\\ZyfraServer.csproj|solutionrelative:zyfraserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +74,218 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Tests",
-              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\Tests\\Tests.csproj",
-              "RelativeDocumentMoniker": "Tests\\Tests.csproj",
-              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\Tests\\Tests.csproj",
-              "RelativeToolTip": "Tests\\Tests.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T13:03:12.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Program.cs",
-              "RelativeDocumentMoniker": "ZyfraServer\\Program.cs",
-              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Program.cs",
-              "RelativeToolTip": "ZyfraServer\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "DocumentIndex": 7,
+              "Title": "ZyfraDataServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\Tests\\ZyfraDataServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ZyfraDataServiceTests.cs",
+              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\Tests\\ZyfraDataServiceTests.cs",
+              "RelativeToolTip": "Tests\\ZyfraDataServiceTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T12:59:44.024Z",
+              "WhenOpened": "2024-11-26T13:09:34.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\Tests\\UnitTest1.cs",
-              "RelativeToolTip": "Tests\\UnitTest1.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAgwFoAAAAuAAAA",
+              "DocumentIndex": 2,
+              "Title": "ZyfraDataControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\Tests\\ZyfraDataControllerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ZyfraDataControllerTests.cs",
+              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\Tests\\ZyfraDataControllerTests.cs",
+              "RelativeToolTip": "Tests\\ZyfraDataControllerTests.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T12:59:25.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FileController.cs",
-              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Controllers\\FileController.cs",
-              "RelativeDocumentMoniker": "ZyfraServer\\Controllers\\FileController.cs",
-              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Controllers\\FileController.cs",
-              "RelativeToolTip": "ZyfraServer\\Controllers\\FileController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAfAAAA",
+              "DocumentIndex": 6,
+              "Title": "ModesManager.cs",
+              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Models\\ModesManager.cs",
+              "RelativeDocumentMoniker": "ZyfraServer\\Models\\ModesManager.cs",
+              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Models\\ModesManager.cs",
+              "RelativeToolTip": "ZyfraServer\\Models\\ModesManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T12:56:49.896Z",
+              "WhenOpened": "2024-11-26T12:23:51.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Program.cs",
+              "RelativeDocumentMoniker": "ZyfraServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Program.cs",
+              "RelativeToolTip": "ZyfraServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:59:44.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZyfraDataController.cs",
+              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Controllers\\ZyfraDataController.cs",
+              "RelativeDocumentMoniker": "ZyfraServer\\Controllers\\ZyfraDataController.cs",
+              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Controllers\\ZyfraDataController.cs",
+              "RelativeToolTip": "ZyfraServer\\Controllers\\ZyfraDataController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:34:00.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZyfraDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Services\\ZyfraDataService.cs",
+              "RelativeDocumentMoniker": "ZyfraServer\\Services\\ZyfraDataService.cs",
+              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Services\\ZyfraDataService.cs",
+              "RelativeToolTip": "ZyfraServer\\Services\\ZyfraDataService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:50:00.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FileService.cs",
-              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Services\\FileService.cs",
-              "RelativeDocumentMoniker": "ZyfraServer\\Services\\FileService.cs",
-              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Services\\FileService.cs",
-              "RelativeToolTip": "ZyfraServer\\Services\\FileService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Title": "20241126132645_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Migrations\\20241126132645_Initial.cs",
+              "RelativeDocumentMoniker": "ZyfraServer\\Migrations\\20241126132645_Initial.cs",
+              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Migrations\\20241126132645_Initial.cs",
+              "RelativeToolTip": "ZyfraServer\\Migrations\\20241126132645_Initial.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T12:55:59.716Z",
+              "WhenOpened": "2024-11-26T13:26:45.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModelsManagerSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Data\\ModelsManagerSeed.cs",
+              "RelativeDocumentMoniker": "ZyfraServer\\Data\\ModelsManagerSeed.cs",
+              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Data\\ModelsManagerSeed.cs",
+              "RelativeToolTip": "ZyfraServer\\Data\\ModelsManagerSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:22:38.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IFileSrevice.cs",
-              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Interfaces\\IFileSrevice.cs",
-              "RelativeDocumentMoniker": "ZyfraServer\\Interfaces\\IFileSrevice.cs",
-              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Interfaces\\IFileSrevice.cs",
-              "RelativeToolTip": "ZyfraServer\\Interfaces\\IFileSrevice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "DocumentIndex": 10,
+              "Title": "IZyfraDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Interfaces\\Services\\IZyfraDataService.cs",
+              "RelativeDocumentMoniker": "ZyfraServer\\Interfaces\\Services\\IZyfraDataService.cs",
+              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Interfaces\\Services\\IZyfraDataService.cs",
+              "RelativeToolTip": "ZyfraServer\\Interfaces\\Services\\IZyfraDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T12:55:24.004Z",
+              "WhenOpened": "2024-11-26T12:47:51.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ZyfraServer",
+              "DocumentIndex": 11,
+              "Title": "ZyfraDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Repositories\\ZyfraDataRepository.cs",
+              "RelativeDocumentMoniker": "ZyfraServer\\Repositories\\ZyfraDataRepository.cs",
+              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Repositories\\ZyfraDataRepository.cs",
+              "RelativeToolTip": "ZyfraServer\\Repositories\\ZyfraDataRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:35:54.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IZyfraDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Interfaces\\Repositories\\IZyfraDataRepository.cs",
+              "RelativeDocumentMoniker": "ZyfraServer\\Interfaces\\Repositories\\IZyfraDataRepository.cs",
+              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Interfaces\\Repositories\\IZyfraDataRepository.cs",
+              "RelativeToolTip": "ZyfraServer\\Interfaces\\Repositories\\IZyfraDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:38:09.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\Tests\\Tests.csproj",
+              "RelativeDocumentMoniker": "Tests\\Tests.csproj",
+              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\Tests\\Tests.csproj",
+              "RelativeToolTip": "Tests\\Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T13:03:12.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ZyfraServer.csproj",
               "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\ZyfraServer.csproj",
               "RelativeDocumentMoniker": "ZyfraServer\\ZyfraServer.csproj",
               "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\ZyfraServer.csproj",
               "RelativeToolTip": "ZyfraServer\\ZyfraServer.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-12T12:54:34.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "ZyfraServer\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "ZyfraServer\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:44:14.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ZyfraData.cs",
+              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Models\\ZyfraData.cs",
+              "RelativeDocumentMoniker": "ZyfraServer\\Models\\ZyfraData.cs",
+              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\Models\\ZyfraData.cs",
+              "RelativeToolTip": "ZyfraServer\\Models\\ZyfraData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:20:52.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\appsettings.json",
+              "RelativeDocumentMoniker": "ZyfraServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sunjekt\\source\\repos\\Zyfra\\ZyfraServer\\appsettings.json",
+              "RelativeToolTip": "ZyfraServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T06:29:44.661Z",
               "EditorCaption": ""
             }
           ]
