@@ -1,13 +1,12 @@
-# Игнорируем файлы сборки
 bin/
 obj/
-
-# Игнорируем временные файлы
 *.log
-
-# Игнорируем файлы пользовательских настроек
 *.user
 *.suo
-
-# Игнорируем файлы среды
 .vs/
+Tests/bin/
+Tests/obj/
+ZyfraServer/bin/
+ZyfraServer/obj/
+ZifraProject/bin/
+ZifraProject/obj/
